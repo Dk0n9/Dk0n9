@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Programmer👨‍🦲 / Hacker🐱‍💻 
 
+![Mr_DK's github stats](https://github-readme-stats.vercel.app/api?username=Dk0n9&include_all_commits=true&hide=prs,issues,contribs&hide_title=true)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Dk0n9">
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dk0n9&layout=compact)
